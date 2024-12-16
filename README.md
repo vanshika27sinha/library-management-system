@@ -1,7 +1,7 @@
-# Library Management System
-A simple flask app to manage users along with mysql service
+# Library Management System from vanshika to ease the working...
+A simple flask app to manage users along with mysql service..below is the preview of first look
 
-![Libray Management App - Flask](https://github.com/vanshika27sinha/library-management-system/blob/master/ss/ss3.JPG?raw=true)
+![Libray Management App - Flask](https://github.com/vanshika27sinha/library-management-system/blob/master/ss/p3.JPG?raw=true)
 
 
 ## Installation
