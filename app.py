@@ -20,6 +20,7 @@ app.jinja_env.globals.update(
     str=str,
 )
 
+
 app.register_blueprint(user_view)
 app.register_blueprint(book_view)
 app.register_blueprint(admin_view)
