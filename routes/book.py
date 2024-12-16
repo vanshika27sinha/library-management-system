@@ -62,6 +62,7 @@ def add(id):
 	return render_template("books.html", msg="Book reserved", books=b, g=g)
 
 
+
 @book_view.route('/books/search', methods=['GET'])
 def search():
 	user_manager.user.set_session(session, g)
