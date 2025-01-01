@@ -1,1 +1,39 @@
-# xyz-game
+# Library Management System🤞
+
+_🙌This project is a_ **Library Management System** _featuring an admin login page and backend API for authentication. It allows admins to log in, manage books, and track user activities🥳._ ~ {_**Credit- Vanshika Sinha**_}
+
+## Features
+- **Admin Login**: _Secure login for administrators to access the backend and manage the library system._ 🔐
+- **User Authentication**: _Allows users to log in with their credentials to interact with the system._ 🧑‍💻
+- **Admin Dashboard**: _View and manage library books, users, and issued books through the admin dashboard._ 📊
+- **Book Issuing System**: _Admin can issue books to users and track issued books._ 📚
+- **User Homepage**: _Users can see the list of available books and check their issued book status._ 🏠
+- **Customizable UI**: _Vibrant, modern design with background images and responsive layout._ 🎨
+- **Error Handling**: _Displays error messages for invalid login attempts or server issues._ ⚠️
+- **Backend Authentication**: _Node.js-based API with JSON response for authentication requests._ 🔌
+- **Dynamic Input Fields**: _Interactive forms for admin login and user management._ 📝
+- **Frontend-Backend Integration**: _Seamless communication between the frontend (HTML/CSS) and backend (Node.js)._ 🔗
+- **Security Features**: _Basic authentication mechanism to prevent unauthorized access to the admin panel._ 🛡️
+- **Extensible Architecture**: _The system is easily extendable to include more features like notifications, advanced search, etc._ 🔧
+
+## _Connect with Me_
+_You can find me on_ [LinkedIn🤗](https://www.linkedin.com/in/vanshika-sinha/).
+
+## Project Preview
+![_**Preview of Main page**_](https://github.com/vanshika27sinha/library-management-system/blob/master/Preview.png?raw=true)
+
+## _Prerequisites_
+
+- [Node.js](https://nodejs.org/en/) _(Ensure you have Node.js installed)_
+- _A modern web browser (Chrome, Firefox, etc.)_
+- _A text editor (VS Code, Sublime Text, etc.)_
+
+## _Installation_
+
+_Follow the steps below to set up the project on your local machine._
+_
+### _Clone the Repository_
+ _Open your terminal or command prompt and run the following command to clone the project:_
+```bash
+git clone https://github.com/vanshika27sinha/library-management-system.git
+cd library-management-system
